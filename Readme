@@ -1,0 +1,55 @@
+# Student Performance Prediction Using Machine Learning
+
+## Project Overview
+
+This project analyzes student performance data and applies machine
+learning techniques to predict mathematics scores.
+
+## Objectives
+
+- Perform exploratory data analysis
+- Handle missing values
+- Remove duplicate records
+- Encode categorical variables
+- Prepare data for machine learning
+- Train multiple machine learning models
+- Evaluate model performance
+- Compare different models
+
+## Machine Learning Models
+
+1. Linear Regression
+2. Random Forest Regression
+
+## Evaluation Metrics
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## Dataset
+
+Student Performance Dataset containing demographic information,
+parental education, test preparation information, and student scores.
+
+## Results
+
+The models are compared using MAE, RMSE, and R² Score.
+The model with lower prediction errors and higher R² Score
+provides better performance on the test dataset.
+
+## Conclusion
+
+The project demonstrates the complete machine learning workflow,
+from data preprocessing and exploratory analysis to model training,
+evaluation, and comparison.
